@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jordanscff
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in [Python, Javascript, HTML, CSS, SQL, VUE]
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me: jordanball.com
