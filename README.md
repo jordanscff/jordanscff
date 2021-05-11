@@ -2,7 +2,7 @@
 - 👀 I’m interested in [Python, Javascript, HTML, CSS, SQL, VUE]
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me: jordanball.com
+- 📫 How to reach me: https://jordanscff.github.io/
 
 <!---
 jordanscff/jordanscff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
